@@ -1,2 +1,2 @@
-# Data_Science_Projects
-Neste repositório apresento meus projetos realizados como trabalhos universitários e projetos profissionais.
+### Projetos de Ciência de Dados
+Neste repositório apresento projetos como trabalhos universitários e projetos profissionais.
