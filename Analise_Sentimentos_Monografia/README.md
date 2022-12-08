@@ -11,9 +11,7 @@ Título: Aprendizado de Máquina Aplicado a Análise de Sentimento em Avaliaçõ
 
 
 <p align="justify">
-Resumo—O estudo apresentado neste documento trata da  técnica de aprendizado de máquina supervisionada aplicada a análise de sentimento. Essa técnica foi utilizada para predição de sentimentos em avaliações textuais de usuários de aplicativos do  Google Play. Para isso, foram usados para previsão classificadores
-como o Decision Tree, K-Nearest Neighbor (K-NN), Nayve Bayes e o Extreme Gradient Boosting (XGBoost). Esses classificadores foram aplicados em dois datasets: um com saída de duas classes (binário) e outro de três classes (ternário). Além disso, utilizou-se em cada classificação a vetorização Count Vectorizer (CV) e a 
-Term Frequency-Inverse Document Frequency (TF-IDF). A linguagem Python com algumas de suas bibliotecas e módulos foi utilizada nas etapas do trabalho. Os melhores resultados na classificação binária foram obtidos pelo modelo XGBoost com acurácias de 0,9380 com a vetorização CV e 0,9382 com a TF-IDF. Em segundo lugar, o Naive Bayes com acurácias de 0,9312 com a vetorização CV e 0,9264 com a TF-IDF. Na classificação multiclasse, manteve-se as colocações, uma vez que o XGBoost obteve acurácias de 0,7281 com a vetorização CV e 0,728 com a TF-IDF e o Naive Bayes alcançou acurácias de 0,7081 e 0,7078 com a vetorização CV e TF-IDF respectivamente.
+Resumo—O estudo apresentado neste documento trata da técnica de aprendizado de máquina supervisionada aplicada a análise de sentimento. Essa técnica foi utilizada para predição de sentimentos em avaliações textuais de usuários de aplicativos do Google Play. Para isso, foram usados para previsão classificadores como o Decision Tree, K-Nearest Neighbor (K-NN), Nayve Bayes e o Extreme Gradient Boosting (XGBoost). Esses classificadores foram aplicados em dois datasets: um com saída de duas classes (binário) e  outro  de três classes (ternário). Além disso, utilizou-se em cada classificação a vetorização Count Vectorizer (CV) e a Term Frequency-Inverse Document Frequency (TF-IDF). A linguagem Python com algumas de suas bibliotecas e módulos foi utilizada nas etapas do trabalho. Os melhores resultados na classificação binária foram obtidos pelo modelo XGBoost com acurácias de 0,9380 com a vetorização CV e 0,9382 com a TF-IDF. Em segundo lugar, o Naive Bayes com acurácias de 0,9312 com a vetorização CV e  0,9264 com  a TF-IDF. Na classificação multiclasse, manteve-se as colocações, uma vez que o XGBoost obteve acurácias de 0,7281 com a vetorização CV e 0,728 com  a TF-IDF e o Naive Bayes alcançou acurácias de 0,7081 e 0,7078 com a vetorização CV e TF-IDF respectivamente.
 </p>
 
 #### 🖥️ Tecnologias e ferramentas utilizadas neste repositório:
@@ -28,7 +26,7 @@ Term Frequency-Inverse Document Frequency (TF-IDF). A linguagem Python com algum
 - Biblioteca scikit-learn, versão 0.24.2;
 - Biblioteca xgboost, versão 1.6.2;
 - Biblioteca joblib, versão 1.1.0;
-- Biblioteca wordcloud, versão 
+- Biblioteca wordcloud, versão 1.8.2.2.
 
 
 Link trabalho: 
