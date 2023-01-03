@@ -29,5 +29,5 @@ Resumo—O estudo apresentado neste documento trata da técnica de aprendizado d
 - Biblioteca wordcloud, versão 1.8.2.2.
 
 
-Link trabalho: 
+Link trabalho: https://github.com/josleal/Data_Science_Projects/blob/main/Analise_Sentimentos/Trabalho%20Conclus%C3%A3o%20de%20Curso%20-%20Vers%C3%A3o%2002.pdf
 
