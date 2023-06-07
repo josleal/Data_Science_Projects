@@ -29,5 +29,5 @@ Resumo—O estudo apresentado neste trabalho trata da técnica de aprendizado de
 - Biblioteca wordcloud, versão 1.8.2.2.
 
 
-Link trabalho: https://github.com/josleal/Data_Science_Projects/blob/main/Analise_Sentimentos/Trabalho%20Conclusão%20de%20Curso%20-%20Josué%20Leal%20Evangelista%20-%20Versão%2002.pdf
+Link trabalho: https://github.com/josleal/Data_Science_Projects/blob/main/Analise_Sentimentos/Trabalho%20Conclusão%20de%20Curso%20-%20Josué%20Leal%20Evangelista%20-%20Corrigido%20-%20Versão%2002.pdf
 
