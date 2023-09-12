@@ -28,5 +28,3 @@ Resumo—O estudo apresentado neste trabalho trata da técnica de aprendizado de
 - Biblioteca joblib, versão 1.1.0;
 - Biblioteca wordcloud, versão 1.8.2.2.
 
-
-Link trabalho: Analise_Sentimentos/Trabalho Conclusão de Curso - Josué Leal Evangelista.pdf
